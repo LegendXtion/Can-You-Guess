@@ -11,4 +11,4 @@ git clone https://github.com/LegendXtion/Can-You-Guess
 <h3>To Run</h3>
 python main.py
 <br />
-<img src="https://i.ibb.co/Sdxd4tt/working.png" height="600" width="600" >
+<img src="https://i.ibb.co/Sdxd4tt/working.png" height="600" width="900" >
